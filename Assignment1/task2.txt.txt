@@ -1,0 +1,3 @@
+Log into Euler and use it to answer the following questions:
+Please note that you should use Euler and not another Linux system for this particular exercise.
+a) 
