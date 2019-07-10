@@ -1,3 +1,27 @@
 Log into Euler and use it to answer the following questions:
 Please note that you should use Euler and not another Linux system for this particular exercise.
-a) 
+
+a) With the command pwd, we got our path:
+[dlah@euler ~]$ pwd
+/srv/home/dlah
+
+b)
+
+c)
+       -s, --size
+              print the allocated size of each file, in blocks
+       -i, --inode
+              print the index number of each file
+
+d) we used the command: [dlah@euler proc]$ cat -n cpuinfo
+The document has 1040 lines.
+
+
+e)
+With the command gcc --version we determine the highest gcc version as 4.8.5
+
+gcc --version
+gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-36)
+
+
+when using the module command, we get: Modules Release 4.0.0 (2017-10-16)

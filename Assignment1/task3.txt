@@ -1,1 +1,20 @@
-penis
+Task 3.
+Choose either vim or nano as text editors on Euler and answer the following in the file task3.txt:
+a)	Which editor did you choose?
+b)	What command(s) would you use to save a file and exit the editor?
+c)	What command(s)/process would you use to (i) paste a section of text (ii) copy a line of text (iii) search the file for a word (if possible).
+
+
+a) vim
+
+b) 
+	:w to save a file
+	:q to exit
+
+c)
+(i)	first I delete (or copy) a row with the command "dd" ("yy")
+	then I go to another row and paste with the command "p"
+	To paste more than 2 rows I can first use the command "<number>dd" ("<number>yy")
+(ii)	yy		copy current line
+(iii)	/<word> 	searching forward
+	?<word>		searching backward
