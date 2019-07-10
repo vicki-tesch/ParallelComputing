@@ -1,0 +1,3 @@
+[submodule "Assignment2/ME459Upstream"]
+	path = Assignment2/ME459Upstream
+	url = https://github.com/nicolsen/ME459Upstream.git
