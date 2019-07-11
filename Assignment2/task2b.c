@@ -9,7 +9,7 @@ int main() {
 	printf("Please insert an integer higher (or equal to) 0")
 	scanf("%d" , &n); 
 	
-	for (i=0; i<=n; i++){
+	for (int i=0; i<=n; i++){
 		outputT2(i); 
 		
 	}
