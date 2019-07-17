@@ -18,10 +18,10 @@ The document has 1040 lines.
 
 
 e)
-With the command gcc --version we determine the highest gcc version as 4.8.5
+With the command "gcc --version" we determine the highest gcc version as 4.8.5
 
 gcc --version
 gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-36)
 
 
-when using the module command, we get: Modules Release 4.0.0 (2017-10-16)
+when using the module command, we get: Modules Release 4.0.0 (2017-10-16)mod

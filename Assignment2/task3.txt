@@ -1,0 +1,5 @@
+ 
+
+First output (after x=A(x)) : 5
+Second output: 5
+Third output: 6
