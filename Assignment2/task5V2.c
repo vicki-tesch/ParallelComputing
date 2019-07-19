@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #include "output.h"
-#include "output.c"
+
 
 int cmpfunc ( const void * a, const void * b) {
     return ( *(int*)a - *(int*)b );
